@@ -23,3 +23,5 @@ To run the R script successfully, the following are required
 2.'  run_analysis.R'   must be saved to the working directory.
 
 3. The packages 'data.frame' and 'reshape2' are required before running the script
+
+##The codebook for this project is in the file codebook.md
