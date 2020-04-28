@@ -24,4 +24,4 @@ To run the R script successfully, the following are required
 
 3. The packages 'data.frame' and 'reshape2' are required before running the script
 
-##The codebook for this project is in the file codebook.md
+## The codebook for this project is in the file codebook.md
